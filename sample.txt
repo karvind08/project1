@@ -1,0 +1,26 @@
+HTML/CSS skills
+Analytical skills
+Responsive design skills
+JavaScript skills
+Interpersonal skills
+Testing and debugging skills
+Back-end basics
+Search engine optimization
+
+
+Job Description
+We are looking for a Python Web Developer responsible for managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end.
+
+You will also be responsible for integrating the front-end elements built by your co-workers into the application; therefore, a basic understanding of front-end technologies is necessary as well.
+
+Responsibilities
+Write clean, maintainable code following best practices (unit testing, source control, continuous integration, automation, design patterns, etc.)
+
+Debug code and troubleshoot problems
+
+Collaborate with other developers, testers, and system engineers to ensure quality product enhancements
+
+Take full responsibility for the quality of code and test cases that are developed
+
+
+C:\Users\"your system name"\AppData\Local\Programs\Python\Python37(Python version)\Scripts
